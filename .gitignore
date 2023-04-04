@@ -1,7 +1,8 @@
-/.ignore
+/.gitignore
 /.venv
 /.vscode
 /codiga.yml
+/app.ipynb
 /files
 /HH_parser.code-workspace
 /__pycache__
