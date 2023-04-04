@@ -1,0 +1,7 @@
+/.ignore
+/.venv
+/.vscode
+/codiga.yml
+/files
+/HH_parser.code-workspace
+/__pycache__
